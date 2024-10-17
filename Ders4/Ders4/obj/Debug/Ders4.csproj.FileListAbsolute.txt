@@ -1,0 +1,16 @@
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\bin\Debug\Ders4.exe.config
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\bin\Debug\Ders4.exe
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\bin\Debug\Ders4.pdb
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.Form1.resources
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.Properties.Resources.resources
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.csproj.GenerateResource.cache
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.exe
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.pdb
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.AnaEkran.resources
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.PictureBox.resources
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.Picturebox_Ornek.resources
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.Progressbar.resources
+C:\Users\sadullah.sener\source\repos\Ders4\Ders4\obj\Debug\Ders4.Progressbar_Ornek.resources
